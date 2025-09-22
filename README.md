@@ -31,7 +31,6 @@
 - 📄 View my [Resume](https://drive.google.com/file/d/1coO8qjCYeZ31LjJeVSxvQ_TlgwQxT9H6/view?usp=sharing)  
 
 </p>
----
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
@@ -49,9 +48,9 @@
 - C  | C++ (Basic)  | Python <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/>  | Data Structures (Basic)  | Java (Basic) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/>  | MySQL <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/>   | Kotlin <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="20" height="20"/>   | Dart (Basic) <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="20" height="20"/>  
 
 ## ⚙️ Tools  
-- VS Code <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="20" height="20"/>  | Android Studio <img src="https://developer.android.com/studio/images/studio-icon.svg" alt="android-studio" width="20" height="20"/>   |  Canva   |  Excel <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="excel" width="20" height="20"/>   | Power BI <img src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi" width="20" height="20"/>   |PyCharm <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="pycharm" width="20" height="20"/>   | Jupyter Notebook <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter" width="20" height="20"/>    
+- VS Code <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="20" height="20"/>  | Android Studio  <img src="https://developer.android.com/studio/images/studio-icon.svg" alt="android-studio" width="20" height="20"/>   |  Canva   |  Excel <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="excel" width="20" height="20"/>   | Power BI <img src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi" width="20" height="20"/>   |PyCharm <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="pycharm" width="20" height="20"/>   | Jupyter Notebook <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter" width="20" height="20"/>    
 ## 🌐 Technologies  
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="20" height="20"/>   | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="20" height="20"/>   | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>   |  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="20" height="20"/>  
+ HTML <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="20" height="20"/>   | CSS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="20" height="20"/>   | JavaScript <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>   | Flutter <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="20" height="20"/>  
 
 ---
 
